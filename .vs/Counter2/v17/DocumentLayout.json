@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\Counter2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1880D24-7E30-48A7-1CD6-EDD06EF424EF}|Assembly-CSharp.csproj|c:\\unity projects\\counter2\\assets\\scripts\\clicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1880D24-7E30-48A7-1CD6-EDD06EF424EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1880D24-7E30-48A7-1CD6-EDD06EF424EF}|Assembly-CSharp.csproj|c:\\unity projects\\counter2\\assets\\scripts\\counterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1880D24-7E30-48A7-1CD6-EDD06EF424EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1880D24-7E30-48A7-1CD6-EDD06EF424EF}|Assembly-CSharp.csproj|c:\\unity projects\\counter2\\assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1880D24-7E30-48A7-1CD6-EDD06EF424EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CounterView.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Counter2\\Assets\\Scripts\\CounterView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CounterView.cs",
+              "ToolTip": "C:\\Unity Projects\\Counter2\\Assets\\Scripts\\CounterView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CounterView.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:38:32.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clicker.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Counter2\\Assets\\Scripts\\Clicker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Clicker.cs",
+              "ToolTip": "C:\\Unity Projects\\Counter2\\Assets\\Scripts\\Clicker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Clicker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:38:20.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Counter2\\Assets\\Scripts\\Counter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counter.cs",
+              "ToolTip": "C:\\Unity Projects\\Counter2\\Assets\\Scripts\\Counter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counter.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:27:44.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
